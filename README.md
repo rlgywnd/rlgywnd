@@ -17,7 +17,7 @@
 
 <br />
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Blog)](https://velog.io/@hyo123) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=hyo123_Blog)](https://velog.io/@hyo123) 
 
 ### :hammer_and_pick: Projects
 
