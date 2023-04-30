@@ -1,16 +1,26 @@
-### Hi there 👋
+<div align='center'>
 
-<!--
-**rlgywnd/rlgywnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&text=%20rlgywnd%20&height=100&section=header&fontSize=40&textBg=true&animation=twinkling)
 
-Here are some ideas to get you started:
+#### :wave: Welcome KimHyoJung's github
+  
+  <br />
+  <br />
+  
+#### :clipboard: Used Skills
+  
+  <br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
+<img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
+  
+<img src="https://img.shields.io/badge/React Hook Form-EC5990?style=for-the-badge&logo=React-Hook-Form&logoColor=white">
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <br>
+<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
