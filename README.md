@@ -7,6 +7,12 @@
   <br />
   <br />
   
+#### :pencil: Link & Blog
+  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Blog)](https://velog.io/@hyo123) 
+
+<img src="https://img.shields.io/badge/팀프로젝트-우유부단-2599ED?style=for-the-badge&logo=uyouboodan&logoColor=white" href="https://github.com/Team-Big-Dipper/UYouBooDan/tree/fe">
+  
 #### :clipboard: Used Skills
   
   <br />
