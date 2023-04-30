@@ -1,6 +1,6 @@
 <div align='center'>
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&text=%20KIM-HYO-JUNG%20&height=200&section=header&fontSize=30&textBg=true&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&text=%20KIM%20HYO%20JUNG-nl-Thank%20you%20for%20visiting%20&height=250&section=header&fontSize=40&animation=twinkling&fontAlign=20&rotate=-10)
 
 ### :wave: Welcome KimHyoJung's github
   
