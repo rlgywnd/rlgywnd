@@ -6,12 +6,6 @@
   
   <br />
   <br />
-  
-### :computer: PortFolio
-  
-<br />
-  
-[<img src="https://img.shields.io/badge/개인프로젝트-김효중포트폴리오-3cb371?style=for-the-badge&logo=khjsportfolio&logoColor=white">](http://hyojung-portfolio.s3-website.ap-northeast-2.amazonaws.com/)
 
 ### :pencil: Blog
 
